@@ -1,0 +1,11 @@
+{
+  "name": "myfirstnode",
+  "version": "1.0.0",
+  "description": "My First Node Application",
+  "main": "myfirst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pornjed Sakgitjarung",
+  "license": "ISC"
+}
